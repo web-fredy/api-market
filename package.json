@@ -1,0 +1,25 @@
+{
+  "name": "api-market",
+  "version": "1.0.0",
+  "description": "API para market personal",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-fredy/api-market.git"
+  },
+  "keywords": [
+    "Express",
+    "node",
+    "js",
+    "git"
+  ],
+  "author": "Fredy Gildardo Garcia Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-fredy/api-market/issues"
+  },
+  "homepage": "https://github.com/web-fredy/api-market#readme"
+}
